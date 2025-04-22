@@ -1,5 +1,5 @@
 # Dummy Endpoints Documentation
-
+https://dummy-api-6ktc.onrender.com
 This document provides information about the dummy endpoints available in the `dummy_endpoint.py` file. These endpoints mimic the behavior of real endpoints but return hardcoded responses, making them suitable for development and testing.
 
 ## Authentication Endpoints
